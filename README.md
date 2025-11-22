@@ -1,5 +1,12 @@
 # Основы:
 
+<details>
+ <summary>Ссылка на тренажёр</summary>
+ <br>
+
+ https://learngitbranching.js.org/?locale=ru_RU
+</details>
+
 ## [Base](https://github.com/winnca/git/tree/1_base)
 
 <details>
